@@ -1,2 +1,2 @@
 # School-Project-2023
-A school project, to attribuate patient to doctor in an hospital using Heurisitc and Prediction code in Python and R
+A school project to assign patients to doctors in a hospital using heuristic and prediction algorithms in Python and R.
